@@ -1,0 +1,6 @@
+name = "cloudflare-imgbed"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+[deploy]
+framework = "none"
