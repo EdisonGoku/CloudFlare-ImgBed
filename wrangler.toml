@@ -1,5 +1,5 @@
 name = "cloudflare-imgbed"
-main = "index.js"      # 这里改对！
+main = "index.js"
 compatibility_date = "2025-01-01"
 
 [deploy]
